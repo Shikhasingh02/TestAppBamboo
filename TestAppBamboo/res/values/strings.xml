@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+Hello Anthem, We are on CI<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
     <string name="app_name">TestAppBamboo</string>
-    <string name="hello_world">Hello Anthem, I am now on CI!</string>
+    <string name="hello_world">Hello Jim, We are on CI</string>
     <string name="action_settings">Settings</string>
 
 </resources>
