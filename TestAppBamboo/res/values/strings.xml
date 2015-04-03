@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">TestAppBamboo</string>
-    <string name="hello_world">Hello, I am now on CI!!!</string>
+    <string name="hello_world">Hello Anthem, I am now on CI</string>
     <string name="action_settings">Settings</string>
 
 </resources>
